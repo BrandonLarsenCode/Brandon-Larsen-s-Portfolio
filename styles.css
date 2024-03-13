@@ -68,8 +68,9 @@ html, body {
     padding: 0;
     width: 100%;
     height: 100%;
-    background-image: url(https://img.freepik.com/free-vector/gradient-geometric-shapes-dark-background_23-2148434188.jpg?w=1380&t=st=1710336296~exp=1710336896~hmac=ce37a3312ab0eeea6b097a2327efbe8060924f865e8dd4176f6989606a8c5d50);
     background-size: cover;
+    background-image: url(./Backgrounds/60c923e0d8f8c2599cee1db374da73fa.jpg );
+    
 }
 
 .project-tile img {
@@ -138,4 +139,6 @@ h1 {
     }
 
 }
+
+
 
