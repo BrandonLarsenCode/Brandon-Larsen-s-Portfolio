@@ -17,6 +17,9 @@ img {
   height: auto;
 }
 
+.sidebar {
+  display: none; /* Hide sidebar on small screens */
+}
 
 
 
