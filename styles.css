@@ -56,15 +56,14 @@ h2 {
     }
 }
 
-/* Default styles for project tiles */
-/* Default styles for project tiles */
+
 .project-tile {
     width: calc(50% - 40px); /* Adjust width to make room for margins */
     margin: 20px;
     padding: 10px;
     border: 1px solid #04ddfa;
     border-radius: 5px;
-    display: inline-block; /* Display tiles inline */
+    display: inline-block; 
     box-sizing: border-box;
 }
 .navbar-list li {
